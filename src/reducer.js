@@ -3,7 +3,7 @@ export const initialState ={
     playlists:[],
     playing: false,
     item: null,
-    token:'BQBYD4RR0EUtTKhvFF2be0iADbyJsUruRRaAPdQkLfWyEEZcxTXcmU4Ye7QIa0A6x1mT0mjNour7Xz4bxMNblRilul8vH8DO4OIUTJ2q95Dhfhr-B4u7EWYy4orwf3WVBMB0Q06XJ-MzmvVGkTB0UoqLsn38UOKRf2V4cyrUqzAfo8GiybX5'
+    //token:'BQBYD4RR0EUtTKhvFF2be0iADbyJsUruRRaAPdQkLfWyEEZcxTXcmU4Ye7QIa0A6x1mT0mjNour7Xz4bxMNblRilul8vH8DO4OIUTJ2q95Dhfhr-B4u7EWYy4orwf3WVBMB0Q06XJ-MzmvVGkTB0UoqLsn38UOKRf2V4cyrUqzAfo8GiybX5'
 }
 
 
